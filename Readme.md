@@ -35,3 +35,14 @@ To start, download the client-server interface from AiBotWorkspace and set up th
 * The server sends general information about the game in the `info` variable.
 * The first part of the data is used for training, and the second part is used for online trading.
 * The bot must respond with an action within seconds, or the program will collapse and you will lose everything.
+
+### Specification
+
+* There is a lot of specification in this trading bot, however, here is the main tools:
+
+- SMA
+- RSA
+- RSI
+- EMA
+- Bollinger Band
+- Stop Loss system
