@@ -15,6 +15,8 @@ IMPORTANT: THIS BOT IS NOT TO BE USED WITH REAL MONEY, YOU SHOULD ONLY USE IT FO
 
 To start, download the client-server interface from AiBotWorkspace and set up the location of your bot and the command line instruction. This will allow you to test your bot and see how it performs.
 
+* Here: https://github.com/jmerle/ai-bot-workspace
+
 ### Training Data
 
 * Three training datasets and a generator are provided alongside this subject.
