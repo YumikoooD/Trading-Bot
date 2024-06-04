@@ -8,7 +8,7 @@ This project is a Trading made in python. A lot of hint has been coded however a
 
 IMPORTANT: THIS BOT IS NOT TO BE USED WITH REAL MONEY, YOU SHOULD ONLY USE IT FOR SIMULATION.
 
-![screenshot](screenshot/gif.webp)
+![screenshot](screenshot/gif.gif)
 
 **Getting Started**
 -------------------
