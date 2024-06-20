@@ -4,9 +4,9 @@
 **Overview**
 ------------
 
-This project is a Trading made in python. A lot of hint has been coded however all of them are not used. It was completed in 1 week !
+This project is a BTC Trading Bot made in python. A lot of hint has been coded however all of them are not used. It was completed in 1 week !
 
-IMPORTANT: THIS BOT IS NOT TO BE USED WITH REAL MONEY, YOU SHOULD ONLY USE IT FOR SIMULATION.
+IMPORTANT: THIS BOT IS NOT TO BE USED WITH REAL MONEY, YOU SHOULD ONLY USE IT FOR SIMULATION. YOU WILL NOT BEAT STOCK MARKET WITH IT !
 
 ![screenshot](screenshot/gif.gif)
 
